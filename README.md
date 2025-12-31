@@ -121,3 +121,27 @@ pip install customtkinter
 
 - This tool is for educational purposes and may not account for all trading scenarios.
 - Verify calculations independently for critical financial decisions.
+
+---
+
+## Rust Implementation
+
+A Rust version of this application is available in the `stock_calculator_rs` directory. It uses `egui` for a high-performance, cross-platform GUI.
+
+### How to Run (Rust)
+
+1. **Install Rust**: Ensure you have Rust and Cargo installed from [rustup.rs](https://rustup.rs/).
+2. **Navigate to the directory**:
+   ```powershell
+   cd stock_calculator_rs
+   ```
+3. **Run**:
+   ```powershell
+   cargo run --release
+   ```
+
+### Troubleshooting
+If you encounter a `dlltool.exe` not found error (common on Windows MinGW setups), add the following to your PATH:
+```powershell
+$env:PATH = "C:\msys64\ucrt64\bin;$env:PATH"
+```
