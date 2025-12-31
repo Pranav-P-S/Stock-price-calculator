@@ -1,0 +1,10 @@
+C:\msys64\home\stock\Stock-price-calculator\stock_calculator_rs\target\release\deps\owned_ttf_parser-0ade80cbd78f3fea.d: C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\lib.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\convert.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\owned.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\preparse.rs
+
+C:\msys64\home\stock\Stock-price-calculator\stock_calculator_rs\target\release\deps\libowned_ttf_parser-0ade80cbd78f3fea.rlib: C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\lib.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\convert.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\owned.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\preparse.rs
+
+C:\msys64\home\stock\Stock-price-calculator\stock_calculator_rs\target\release\deps\libowned_ttf_parser-0ade80cbd78f3fea.rmeta: C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\lib.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\convert.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\owned.rs C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\preparse.rs
+
+C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\lib.rs:
+C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\convert.rs:
+C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\owned.rs:
+C:\Users\Epsilon0\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\preparse.rs:
